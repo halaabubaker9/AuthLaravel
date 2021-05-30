@@ -8,7 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    @include('Navbar')
 
 <table class="table table-striped" style="margin-top: 100px">
     <thead>
