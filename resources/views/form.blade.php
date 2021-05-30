@@ -9,14 +9,10 @@
 </head>
 <body>
 @include('Navbar')
-
-
-
-
-
-
-
-
+<div class="text-center ">
+    <h1 class="p-5">Upload Your Files Safly</h1>
+    <img src="https://image.freepik.com/free-vector/add-files-concept-illustration_114360-5399.jpg"  alt="Responsive image" class=" m-5">
+</div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
